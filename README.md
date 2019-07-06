@@ -1,2 +1,6 @@
 # Online-Examination
-In an online examination system examine get their user id and password with his/her admit card. This id is already saved in the examination server. When examine login to the server he/she get his/her profile already register. On the certain time examine gets the message to start the examination. All answers given by examine are saved into the server with his/her profile information. Online examination system also allows to correct the answer if the examine needed to change any answer in the examination time duration, however, after the time duration any change will not allow. This also makes c checking the answer easy and error proof as computers are more accurate than man and provide fast results too. Php is a web base language so we can create an online examination system in PHP.
+Login system must be present and secured by password.
+Ability to save the answer given by the candidate along with the question.
+Answer checking system should be available.
+Could Update Profile
+Log out after the over.
